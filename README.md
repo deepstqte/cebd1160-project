@@ -3,7 +3,7 @@
 | :------------- | :------------ |
 | Hamza Benhmani | June 22, 2019 |
 
-Note that for the opinions and taste expressed in this project are not mine.
+Note that the opinions expressed in this project are not mine.
 
 -----
 
