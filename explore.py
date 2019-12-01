@@ -9,6 +9,7 @@ from sklearn.metrics import classification_report, confusion_matrix, f1_score
 
 songs_df = pd.read_csv("clean_songs.csv", low_memory=False)
 
+# Changing another file
 supported_genres = ['rock', 'pop', 'electro', 'folk', 'hiphop', 'metal', 'rap']
 for genre in supported_genres:
 	songs_df.loc[songs_df['Genre'].str.contains(genre), 'Genre'] = genre
