@@ -2,6 +2,7 @@ FROM ubuntu:latest
 
 COPY requirements.txt ./
 
+# This is a comment for gitpod-test
 RUN apt update && \
     apt install -y python3 \
                    python3-pip && \
