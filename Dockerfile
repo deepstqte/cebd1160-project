@@ -8,6 +8,7 @@ RUN apt update && \
                    python3-pip && \
     pip3 install -r requirements.txt
 
+# This is a second gitpod testing comment
 COPY explore.py ./
 COPY clean_songs.csv ./
 
