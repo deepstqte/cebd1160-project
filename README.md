@@ -8,7 +8,23 @@ Note that the opinions expressed in this project are not mine.
 
 ## Research Question
 
-Would it be possible for me, an opinionated Rock fan to prove what is and is not Rock?
+Would it be possible for me, an opinionated Rock fan to prove what is and is not Rock? 
+
+* Added in GitBook
+
+{% tabs %}
+{% tab title="AWS" %}
+For AWS do this.
+{% endtab %}
+
+{% tab title="Azure" %}
+For GCP do this.
+{% endtab %}
+
+{% tab title="GCP" %}
+For AWS do this.
+{% endtab %}
+{% endtabs %}
 
 ### Abstract
 
